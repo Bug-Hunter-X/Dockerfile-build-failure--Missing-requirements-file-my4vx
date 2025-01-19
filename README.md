@@ -1,0 +1,1 @@
+This repository contains a Dockerfile that fails to build due to a missing requirements.txt file. The solution demonstrates how to properly include the requirements file in the Docker build process.
